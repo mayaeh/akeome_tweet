@@ -1,0 +1,26 @@
+<?php
+
+// 環境別設定ファイル
+
+// このディレクトリまでの絶対パス（最後にスラッシュ必要）
+define ('SCRIPT_DIR', 
+	'') ;
+
+define ('CONSUMER_KEY', 
+	'') ;
+
+define ('CONSUMER_SECRET', 
+	'') ;
+
+define ('OAUTH_CALLBACK', 
+	'') ;
+
+// OAuth アプリ登録後表示された値を記述する
+
+define ('OAUTH_ACCESS_TOKEN', 
+	'') ;
+
+define ('OAUTH_ACCESS_TOKEN_SECRET', 
+	'') ;
+
+?>
